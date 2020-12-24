@@ -2,6 +2,8 @@ import react, { Component } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Homepage from "./components/Homepage";
+import Effectif from "./components/Effectif";
+import Articles from "./components/Articles";
 import "./App.css";
 
 function App() {
@@ -11,6 +13,8 @@ function App() {
         <Header />
         <Switch>
           <Route exact path="/" component={Homepage} />
+          <Route path="/effectif" component={Effectif} />
+          <Route path="/articles" component={Articles} />
         </Switch>
       </Router>
     </div>
