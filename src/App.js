@@ -1,4 +1,5 @@
-import react, { Component } from "react";
+import React, { Component, Fragment, useState, useEffect } from "react";
+import axios from "axios";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Header from "./components/Header";
 import Homepage from "./components/Homepage";
@@ -7,8 +8,11 @@ import Articles from "./components/Articles";
 import "./App.css";
 
 function App() {
+  const [data, setData] = useState([]);
+
   return (
     <div className="App">
+      <Fragment>"Hello world</Fragment>
       <Router>
         <Header />
         <Switch>
