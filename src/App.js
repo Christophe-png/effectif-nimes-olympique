@@ -9,10 +9,29 @@ import "./App.css";
 
 function App() {
   const [data, setData] = useState([]);
+  useEffect(() => {
+    const fetchData = async () => {
+      const result = await axios(
+        "https://my-json-server.typicode.com/Christophe-png/effectif-nimes-olympique/db"
+      );
+      setData(result.data);
+    };
+    fetchData();
+  });
 
   return (
     <div className="App">
-      <Fragment>"Hello world</Fragment>
+      <Fragment>
+        <ul>
+          {data.map(function (item) {
+            return (
+              <li key={item.id}>
+                <p>{item.nom}</p>
+              </li>
+            );
+          })}
+        </ul>
+      </Fragment>
       <Router>
         <Header />
         <Switch>
