@@ -1,4 +1,6 @@
-import React, { Component, Fragment, useState, useEffect } from "react";
+// eslint-disable react/prefer-stateless-function
+// eslint-disable react/no-unescaped-entities
+import React, { Fragment, useState, useEffect } from "react";
 import axios from "axios";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Header from "./components/Header";
@@ -6,9 +8,11 @@ import Homepage from "./components/Homepage";
 import Effectif from "./components/Effectif";
 import Articles from "./components/Articles";
 import "./App.css";
+//import { ReactComponent } from "*.svg";
 
 function App() {
   const [data, setData] = useState([]);
+
   useEffect(() => {
     const fetchData = async () => {
       const result = await axios(
@@ -23,15 +27,14 @@ function App() {
     <div className="App">
       <Fragment>
         <ul>
-          {data.map(function (item) {
-            return (
-              <li key={item.id}>
-                <p>{item.nom}</p>
-              </li>
-            );
-          })}
+          {data.map((item) => (
+            <li key={item.id}>
+              <p>{item.nom}</p>
+            </li>
+          ))}
         </ul>
       </Fragment>
+
       <Router>
         <Header />
         <Switch>
