@@ -3,233 +3,234 @@
     {
       "id": 1,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Dias-1.jpg",
-      "nom:": "Lucas DIAS",
-      "age:": "21 ans",
-      "né à:": "Lyon",
-      "poste: ": "Gardiens"
+      "nom": "Lucas DIAS",
+      "age": "21 ans",
+      "né": "Lyon",
+      "poste": "Gardiens"
     },
     {
       "id": 2,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Reynet.jpg",
-      "nom:": "Baptiste REYNET",
-      "age:": "30 ans",
-      "né à:": "Romans-Sur-Isère",
-      "poste: ": "Gardiens"
+      "nom": "Baptiste REYNET",
+      "age": "30 ans",
+      "né": "Romans-Sur-Isère",
+      "poste": "Gardiens"
     },
     {
       "id": 3,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/01/Guessoum.jpg",
-      "nom:": "Kelyan GUESSOUM",
+      "nom": "Kelyan GUESSOUM",
       "age:": "21 ANS",
-      "né à:": "Ales",
-      "poste: ": "Défenseurs"
+      "né": "Ales",
+      "poste": "Défenseurs"
     },
     {
       "id": 4,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Meling.jpg",
-      "nom:": "Birger MELING",
-      "age:": "26 ANS",
-      "né à:": "Stavanger(Norvège)",
-      "poste: ": "Défenseurs"
+      "nom": "Birger MELING",
+      "age": "26 ANS",
+      "né": "Stavanger(Norvège)",
+      "poste": "Défenseurs"
     },
     {
       "id": 5,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Martinez.jpg",
-      "nom:": "Pablo MARTINEZ",
+      "nom": "Pablo MARTINEZ",
       "age:": " 31 ANS",
-      "né à:": "Orange",
-      "poste: ": "Défenseurs"
+      "né": "Orange",
+      "poste": "Défenseurs"
     },
     {
       "id": 6,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Landre.jpg",
-      "nom:": "Loïck LANDRE",
-      "age:": "  28 ANS",
-      "né à:": "Aubervilliers",
-      "poste: ": "Défenseurs"
+      "nom": "Loïck LANDRE",
+      "age": "  28 ANS",
+      "né": "Aubervilliers",
+      "poste": "Défenseurs"
     },
     {
-      "i": 8,
+      "id": 8,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Paquiez.jpg",
-      "nom:": "Gaëtan PAQUIEZ",
-      "age:": "26 ANS",
-      "né à:": "Valréas",
-      "poste:": "Défenseurs"
+      "nom": "Gaëtan PAQUIEZ",
+      "age": "26 ANS",
+      "né": "Valréas",
+      "poste": "Défenseurs"
     },
     {
-      "i": 9,
+      "id": 9,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/01/Burner.jpg",
-      "nom:": "Patrick BURNER",
-      "age:": "24 ANS",
-      "né à:": "Fort de France",
-      "poste:": "Défenseurs"
+      "nom": "Patrick BURNER",
+      "age": "24 ANS",
+      "né": "Fort de France",
+      "poste": "Défenseurs"
     },
     {
-      "i": 10,
+      "id": 10,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Briancon.jpg",
-      "nom:": "Anthony BRIANÇON",
-      "age:": "26 ANS",
-      "né à:": "Avignon",
-      "poste:": "Défenseurs"
+      "nom": "Anthony BRIANÇON",
+      "age": "26 ANS",
+      "né": "Avignon",
+      "poste": "Défenseurs"
     },
     {
-      "i": 11,
+      "id": 11,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Miguel.jpg",
-      "nom:": "Florian MIGUEL",
-      "age:": "24 ANS",
-      "né à:": "Bruges (Belgique)",
-      "poste:": "Défenseurs"
+      "nom": "Florian MIGUEL",
+      "age": "24 ANS",
+      "né": "Bruges (Belgique)",
+      "poste": "Défenseurs"
     },
     {
-      "i": 12,
+      "id": 12,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Alakouch-1.jpg",
-      "nom:": "Sofiane  alakouch",
-      "age:": "22 ANS",
-      "né à:": "Nîmes",
-      "poste:": "Défenseurs"
+      "nom": "Sofiane  alakouch",
+      "age": "22 ANS",
+      "né": "Nîmes",
+      "poste": "Défenseurs"
     },
     {
-      "i": 13,
+      "id": 13,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Sarr.jpg",
-      "nom:": "Sidy SARR",
-      "age:": "24 ANS",
-      "né à:": "Dakar (Senegal)",
-      "poste:": "Milieux de Terrain"
+      "nom": "Sidy SARR",
+      "age": "24 ANS",
+      "né": "Dakar (Senegal)",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 14,
+      "id": 14,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/01/Eliasson.jpg",
-      "nom:": "Niclas ELIASSON",
-      "age:": "25 ANS",
-      "né à:": "Varberg (Suède)",
-      "poste:": "Milieux de Terrain"
+      "nom": "Niclas ELIASSON",
+      "age": "25 ANS",
+      "né": "Varberg (Suède)",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 15,
+      "id": 15,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Deaux.jpg",
-      "nom:": "Lucas DEAUX",
-      "age:": "32 ANS",
-      "né à:": "Reims",
-      "poste:": "Milieux de Terrain"
+      "nom": "Lucas DEAUX",
+      "age": "32 ANS",
+      "né": "Reims",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 16,
+      "id": 16,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Ferhat.jpg",
-      "nom:": "Zinédine FERHAT",
-      "age:": "27 ANS",
-      "né à:": "Bordj Menaïel (Algérie)",
-      "poste:": "Milieux de Terrain"
+      "nom": "Zinédine FERHAT",
+      "age": "27 ANS",
+      "né": "Bordj Menaïel (Algérie)",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 17,
+      "id": 17,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2020/09/Ahlinvi.jpg",
-      "nom:": "Matteo AHLINVI",
-      "age:": "21 ANS",
-      "né à:": "Arcachon",
-      "poste:": "Milieux de Terrain"
+      "nom": "Matteo AHLINVI",
+      "age": "21 ANS",
+      "né": "Arcachon",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 18,
+      "id": 18,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Fomba.jpg",
-      "nom:": "Lamine FOMBA",
-      "age:": "22 ANS",
-      "né à:": "Rosny-sous-Bois",
-      "poste:": "Milieux de Terrain"
+      "nom": "Lamine FOMBA",
+      "age": "22 ANS",
+      "né": "Rosny-sous-Bois",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 19,
+      "id": 19,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Valerio.jpg",
-      "nom:": "Antoine VALERIO",
-      "age:": "21 ANS",
-      "né à:": "Bordeaux",
-      "poste:": "Milieux de Terrain"
+      "nom": "Antoine VALERIO",
+      "age": "21 ANS",
+      "né": "Bordeaux",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 20,
+      "id": 20,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Duljevic.jpg",
-      "nom:": "Haris DULJEVIC",
-      "age:": "27 ANS",
-      "né à:": "Sarajevo (Bosnie et Herzegovine)",
-      "poste:": "Milieux de Terrain"
+      "nom": "Haris DULJEVIC",
+      "age": "27 ANS",
+      "né": "Sarajevo (Bosnie et Herzegovine)",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 21,
+      "id": 21,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Cubas.jpg",
-      "nom:": "Andrés CUBAS",
-      "age:": "24 ANS",
-      "né à:": "Aristóbulo del Valle (Argentine)",
-      "poste:": "Milieux de Terrain"
+      "nom": "Andrés CUBAS",
+      "age": "24 ANS",
+      "né": "Aristóbulo del Valle (Argentine)",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 22,
+      "id": 22,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Benrahou.jpg",
-      "nom:": "Yassine BENRAHOU",
-      "age:": "21 ANS",
-      "né à:": "Le Blanc Mesnil (93)",
-      "poste:": "Milieux de Terrain"
+      "nom": "Yassine BENRAHOU",
+      "age": "21 ANS",
+      "né": "Le Blanc Mesnil (93)",
+      "poste": "Milieux de Terrain"
     },
     {
-      "i": 23,
+      "id": 23,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Depres-1.jpg",
-      "nom:": "Clément DEPRES",
-      "age:": "26 ANS",
-      "né à:": "Nîmes",
-      "poste:": "Attaquants"
+      "nom": "Clément DEPRES",
+      "age": "26 ANS",
+      "né": "Nîmes",
+      "poste": "Attaquants"
     },
     {
-      "i": 24,
+      "id": 24,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/01/Aribi.jpg",
-      "nom:": "Karim ARIBI",
-      "age:": "26 ANS",
-      "né à:": "Reghaïa (Algérie)",
-      "poste:": "Attaquants"
+      "nom": "Karim ARIBI",
+      "age": "26 ANS",
+      "né": "Reghaïa (Algérie)",
+      "poste": "Attaquants"
     },
     {
-      "i": 25,
+      "id": 25,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Buades-1.jpg",
-      "nom:": "Lucas BUADES",
-      "age:": "23 ANS",
-      "né à:": "Muret",
-      "poste:": "Attaquants"
+      "nom": "Lucas BUADES",
+      "age": "23 ANS",
+      "né": "Muret",
+      "poste": "Attaquants"
     },
     {
-      "i": 26,
+      "id": 26,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Ripart.jpg",
-      "nom:": "Renaud RIPART",
-      "age:": "27 ANS",
-      "poste:": "Attaquants"
+      "nom": "Renaud RIPART",
+      "age": "27 ANS",
+      "né": "Nîmes",
+      "poste": "Attaquants"
     },
     {
-      "i": 27,
+      "id": 27,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/BenAmar.jpg",
-      "nom:": "Sami BEN AMAR",
-      "age:": "22 ANS",
-      "né à:": "Nice",
-      "poste:": "Attaquants"
+      "nom": "Sami BEN AMAR",
+      "age": "22 ANS",
+      "né": "Nice",
+      "poste": "Attaquants"
     },
     {
-      "i": 28,
+      "id": 28,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Roux.jpg",
-      "nom:": "Nolan ROUX",
-      "age:": "32 ANS",
-      "né à:": "Compiègne",
-      "poste:": "Attaquants"
+      "nom": "Nolan ROUX",
+      "age": "32 ANS",
+      "né": "Compiègne",
+      "poste": "Attaquants"
     },
     {
-      "i": 29,
+      "id": 29,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Denkey-1.jpg",
-      "nom:": "Kévin DENKEY",
-      "age:": "20 ANS",
-      "né à:": "Compiègne",
-      "poste:": "Attaquants"
+      "nom": "Kévin DENKEY",
+      "age": "20 ANS",
+      "né": "Compiègne",
+      "poste": "Attaquants"
     },
     {
-      "i": 30,
+      "id": 30,
       "image": "https://www.nimes-olympique.com/wp-content/uploads/2016/10/Kone.jpg",
-      "nom:": "MOUSSA KONE",
-      "age:": "24 ANS",
-      "né à:": "Dakar (Senegal)",
-      "poste:": "Attaquants"
+      "nom": "MOUSSA KONE",
+      "age": "24 ANS",
+      "né": "Dakar (Senegal)",
+      "poste": "Attaquants"
     }
   ]
 }
