@@ -1,5 +1,3 @@
-// eslint-disable react/prefer-stateless-function
-// eslint-disable react/no-unescaped-entities
 import React, { Fragment, useState, useEffect } from "react";
 import axios from "axios";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
@@ -21,17 +19,19 @@ function App() {
       setData(result.data);
     };
     fetchData();
-  });
+  }, []);
 
   return (
     <div className="App">
       <Fragment>
         <ul>
-          {data.map((item) => (
-            <li key={item.id}>
-              <p>{item.nom}</p>
-            </li>
-          ))}
+          {data.map((item) => {
+            return (
+              <li key={item.id}>
+                <p>{item.nom}</p>
+              </li>
+            );
+          })}
         </ul>
       </Fragment>
 
