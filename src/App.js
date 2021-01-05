@@ -16,7 +16,8 @@ function App() {
       const result = await axios(
         "https://my-json-server.typicode.com/Christophe-png/effectif-nimes-olympique/db"
       );
-      setData(result.data);
+      console.log(result.data[Object.keys(result.data)[0]]);
+      setData(result.data[Object.keys(result.data)[0]]);
     };
     fetchData();
   }, []);
@@ -25,13 +26,11 @@ function App() {
     <div className="App">
       <Fragment>
         <ul>
-          {data.map((item) => {
-            return (
-              <li key={item.id}>
-                <p>{item.nom}</p>
-              </li>
-            );
-          })}
+          {data.map((item) => (
+            <li key={item.id}>
+              <p>{item.nom}</p>
+            </li>
+          ))}
         </ul>
       </Fragment>
 
