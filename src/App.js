@@ -29,6 +29,10 @@ function App() {
           {data.map((item) => (
             <li key={item.id}>
               <p>{item.nom}</p>
+              <p>{item.image}</p>
+              <p>{item.age}</p>
+              <p>{item.né}</p>
+              <p>{item.poste}</p>
             </li>
           ))}
         </ul>
